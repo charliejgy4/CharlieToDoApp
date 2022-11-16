@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CharlieToDoApp/static/css/main.2e30ddf7.css",
+    "main.js": "/CharlieToDoApp/static/js/main.c00873e7.js",
+    "index.html": "/CharlieToDoApp/index.html",
+    "main.2e30ddf7.css.map": "/CharlieToDoApp/static/css/main.2e30ddf7.css.map",
+    "main.c00873e7.js.map": "/CharlieToDoApp/static/js/main.c00873e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e30ddf7.css",
+    "static/js/main.c00873e7.js"
+  ]
+}
